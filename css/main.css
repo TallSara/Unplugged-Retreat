@@ -331,7 +331,7 @@ input[type=button] {
   justify-content: center;
   flex-flow: row wrap;
   background-image: url('../img/rawpixel-800820-unsplash.jpg');
-  background-size: 500%;
+  background-size: 700%;
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -358,6 +358,11 @@ input[type=button] {
 
 .features p {
   margin: 0;
+}
+
+.features i {
+	font-size: 3.75em;
+  margin-bottom: 40px;
 }
 
 /* Reviews */
