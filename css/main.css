@@ -259,6 +259,13 @@ footer .social {
   text-align: center;
 }
 
+.social-icons i {
+  background: #527158;
+  padding:10px;
+  border-radius: 50%;
+  font-size: 1.5em;
+}
+
 footer .copyright {
   display: flex;
   justify-content: center;
