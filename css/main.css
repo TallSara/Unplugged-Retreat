@@ -264,6 +264,7 @@ footer .social {
   padding:10px;
   border-radius: 50%;
   font-size: 1.5em;
+  margin: 0 10px;
 }
 
 footer .copyright {
@@ -728,6 +729,10 @@ input[type=button] {
     }
 
     .contact-content {
+      margin: 0 0 25px 0;
+    }
+
+    .contact-content {
       display: flex;
       justify-content: space-between;
       align-items: flex-start;
@@ -739,6 +744,7 @@ input[type=button] {
 
     .faq .content-wrapper {
       justify-content: space-between;
+      align-items: flex-start;
     }
 
     .faq-content {
@@ -856,6 +862,10 @@ input[type=button] {
 
       .map figure {
         padding-bottom: 40%;
+      }
+
+      .contact-content {
+        margin: 0 0 40px 0;
       }
 
       .contact-section h2, .mission-section h2 {
