@@ -707,7 +707,9 @@ input[type=button] {
       width: 45%;
     }
 
-
+    .map figure {
+      padding-bottom: 45%;
+    }
 
     .contact-section .content-wrapper h2 {
       width: 80%;
@@ -838,6 +840,10 @@ input[type=button] {
       .mission h2,
       .contact-section .content-wrapper h2 {
           width:200%
+      }
+
+      .map figure {
+        padding-bottom: 40%;
       }
 
       .contact-section h2, .mission-section h2 {
