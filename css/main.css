@@ -341,7 +341,7 @@ input[type=button] {
   justify-content: center;
   flex-flow: row wrap;
   background-image: url('../img/rawpixel-800820-unsplash.jpg');
-  background-size: 700%;
+  background-size: 900%;
   background-repeat: no-repeat;
   background-position: center;
 }
